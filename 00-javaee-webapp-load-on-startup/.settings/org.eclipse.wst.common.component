@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="00-javaee-webapp-load-on-startup">
+    <wb-module deploy-name="01-javaee-webxml-load-on-startup">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="00-javaee-webapp-load-on-startup"/>
-        <property name="java-output-path" value="/00-javaee-webapp-load-on-startup/build/classes"/>
+        <property name="java-output-path" value="/01-javaee-webxml-load-on-startup/build/classes"/>
+        <property name="context-root" value="01-javaee-webxml-load-on-startup"/>
     </wb-module>
 </project-modules>
